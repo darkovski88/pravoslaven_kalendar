@@ -1,0 +1,63 @@
+{
+  "id": "denovi-2028-04-28",
+  "date": "2028-04-28",
+  "sourceUrl": "https://denovi.mk/20280428.html",
+  "oldDate": {
+    "day": "15",
+    "month": "Април",
+    "label": "15 април (по стар стил)"
+  },
+  "newDate": {
+    "day": "28",
+    "month": "Април"
+  },
+  "notice": "Петок. Пост.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "Светите апостоли Аристарх, Пуд и Трофим",
+  "name": "Апостоли од 70-те: Аристарх, Пуд и Трофим (околу 67)",
+  "description": "Од бројот на Седумдесетте апостоли. Во времето на гонењето од Нерон, кога беше убиен светиот апостол Павле, беа убиени и овие тројца славни апостоли.",
+  "celebrationReason": "Од бројот на Седумдесетте апостоли. Во времето на гонењето од Нерон, кога беше убиен светиот апостол Павле, беа убиени и овие тројца славни апостоли.",
+  "thumbnail": "./images/e295ac2ec422987a-full.jpg",
+  "image": "./images/e295ac2ec422987a-full.jpg",
+  "saints": [
+    {
+      "name": "Апостоли од 70-те: Аристарх, Пуд и Трофим (околу 67)",
+      "detailUrl": "https://denovi.mk/april/28-040.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/april/28-040-tn.jpg"
+    },
+    {
+      "name": "Маченички Василиса и Анастасија (околу 68)",
+      "detailUrl": "https://denovi.mk/april/28-043.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/april/28-043-tn.jpg"
+    },
+    {
+      "name": "Маченик Сава Готски (372)",
+      "detailUrl": "https://denovi.mk/april/28-041.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/april/28-041-tn.jpg"
+    },
+    {
+      "name": "Маченици Месукевиски - Сухиј и неговата дружина: Андреј, Анастасиј, Талалеј, Теодорит, Ивхирион, Јордан, Кондрат, Лукијан, Мимненос, Нерангиос, Полиевкт, Јаков, Фока, Доментијан, Виктор, Зосим (100-130) (Ерменија)",
+      "detailUrl": "https://denovi.mk/april/28-042.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/april/28-042-tn.jpg"
+    },
+    {
+      "name": "Благоверен велик кнез Киевски Мстислав - Теодор (XII)",
+      "detailUrl": "https://denovi.mk/april/28-044.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/april/28-044-tn.jpg"
+    },
+    {
+      "name": "• Преподобен Руадхан, игумен Лофрски (584) (Британија)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Леонид, епископ Атински",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

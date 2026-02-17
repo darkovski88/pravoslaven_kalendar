@@ -1,0 +1,43 @@
+{
+  "id": "denovi-2028-08-19",
+  "date": "2028-08-19",
+  "sourceUrl": "https://denovi.mk/20280819.html",
+  "oldDate": {
+    "day": "6",
+    "month": "Август",
+    "label": "6 Август"
+  },
+  "newDate": {
+    "day": "19",
+    "month": "Август"
+  },
+  "notice": "Сабота, Успенски пост. Риба.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "• Преподобен Јов Уштелски (1628)",
+  "name": "• Преподобен Јов Уштелски (1628)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Преподобен Јов Уштелски (1628)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Теоктист, епископ Черниговски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новосвештеномаченици Димитриј, архиепископ Гдовски (1938), јереј Николај (Прозоров) (1930), презвитер Андреј (Зимин), презвитер Сергиј (Тихомиров), Домника, Лидија и Марија (Зимина)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "denovi-2028-01-21",
+  "date": "2028-01-21",
+  "sourceUrl": "https://denovi.mk/20280121.html",
+  "oldDate": {
+    "day": "8",
+    "month": "Јануари",
+    "label": "8 јануари (по стар стил)"
+  },
+  "newDate": {
+    "day": "21",
+    "month": "Јануари"
+  },
+  "notice": "Петок. Пост.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "Преподобен Георгиј Хозевит",
+  "name": "Прпеподобни Георгиј Хозевит (VII) и Емилијан исповедник (IX)",
+  "description": "Се подвизувал во 7 век во Хозевитската обител на патот од Ерусалим во Јерихон, каде што се подвизувал и свети Јован Хозевит.",
+  "celebrationReason": "Се подвизувал во 7 век во Хозевитската обител на патот од Ерусалим во Јерихон, каде што се подвизувал и свети Јован Хозевит.",
+  "thumbnail": "./images/0bfb65839993f7fc-full.jpg",
+  "image": "./images/0bfb65839993f7fc-full.jpg",
+  "saints": [
+    {
+      "name": "Прпеподобни Георгиј Хозевит (VII) и Емилијан исповедник (IX)",
+      "detailUrl": "https://denovi.mk/januari/21-012.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/21-012-tn.jpg"
+    },
+    {
+      "name": "Свештеномаченик Картериј, презвитер во Кесарија Кападокиска (304)",
+      "detailUrl": "https://denovi.mk/januari/21-013.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/21-013-tn.jpg"
+    },
+    {
+      "name": "Преподобна Домникa Константинополска (околу 474)",
+      "detailUrl": "https://denovi.mk/januari/21-014.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/21-014-tn.jpg"
+    },
+    {
+      "name": "Маченици Јулијан, Келсиј, Антониј, Анастасиј, маченички Василиса и Марионила, 7 деца и 20 воини (313)",
+      "detailUrl": "https://denovi.mk/januari/21-011.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/21-011-tn.jpg"
+    },
+    {
+      "name": "Свети Кир и Атика патријарси Константинополски (VIII)",
+      "detailUrl": "https://denovi.mk/januari/21-015.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/21-015-tn.jpg"
+    },
+    {
+      "name": "• Свети Григориј, епископ Охридски (XI)",
+      "detailUrl": "https://denovi.mk/januari/21-010.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Григориј, чудотворец Печерски (1093)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Григориј, затворник Печерски (XIII-XIV)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свештеномаченик Исидор презвитер и со него 72-ца пострадани од латините (1472)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Паисиј Угличски (1504)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченици Теофил ѓакон и Еладиј (IV)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Илија, пустиник Египетски (IV)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Агатон Египетски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченик Або Тбилиски (околу 790) (Грузија)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченица Гудула Бриселска (659) (Британија)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

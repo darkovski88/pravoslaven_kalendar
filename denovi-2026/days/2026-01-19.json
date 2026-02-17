@@ -1,0 +1,43 @@
+{
+  "id": "denovi-2026-01-19",
+  "date": "2026-01-19",
+  "sourceUrl": "https://denovi.mk/20260119.html",
+  "oldDate": {
+    "day": "6",
+    "month": "Јануари",
+    "label": "6 Јануари"
+  },
+  "newDate": {
+    "day": "19",
+    "month": "Јануари"
+  },
+  "notice": "Понеделник. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "• Свештеномаченик Роман, обезглавен од Турците (Грција)",
+  "name": "• Свештеномаченик Роман, обезглавен од Турците (Грција)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Свештеномаченик Роман, обезглавен од Турците (Грција)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новомаченици руски: презвитер Андреј и со него Лидија, Домник, Марија и две други ќерки (1919)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Лаврентиј Черниговски (1950)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

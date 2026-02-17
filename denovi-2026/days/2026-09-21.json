@@ -1,0 +1,68 @@
+{
+  "id": "denovi-2026-09-21",
+  "date": "2026-09-21",
+  "sourceUrl": "https://denovi.mk/20260921.html",
+  "oldDate": {
+    "day": "8",
+    "month": "Септември",
+    "label": "8 Септември"
+  },
+  "newDate": {
+    "day": "21",
+    "month": "Септември"
+  },
+  "notice": "Понеделник. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "• Преподобен Серапион, монах во Спасо-Елеазаровскиот манастир",
+  "name": "• Преподобен Серапион, монах во Спасо-Елеазаровскиот манастир",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Преподобен Серапион, монах во Спасо-Елеазаровскиот манастир",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Лукијан, игумен Александровски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Арсениј, игумен Коневецки",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Крал Ина Уесекски и кралица Етелбурга (VIII) (Британија)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новомаченик Атанасиј Солунски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Софрониј, епископ Иверски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новомаченик Александар (Јакобсон) (1930)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новосвештеномаченик Василиј Разумов",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

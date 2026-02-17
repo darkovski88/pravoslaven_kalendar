@@ -1,0 +1,78 @@
+{
+  "id": "denovi-2026-01-27",
+  "date": "2026-01-27",
+  "sourceUrl": "https://denovi.mk/20260127.html",
+  "oldDate": {
+    "day": "14",
+    "month": "Јануари",
+    "label": "14 јануари (по стар стил)"
+  },
+  "newDate": {
+    "day": "27",
+    "month": "Јануари"
+  },
+  "notice": "Вторник. Оддание на Богојавление. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "Преподобните маченици Синајски и Раитски",
+  "name": "Преподобни отци пострадани во Раифа Синајска: Исаија, Сава, Мојсеј и учениците негови Мојсеј, Јеремиј, Павел, Адам, Сергиј, Домн, Прокло, Ипатиј, Исаак, Макариј, Марко, Венијамин, Евсевиј, Илија и другите со нив (IV-V)",
+  "description": "Овие отци беа убиени од Сарацените, едни во 4, а други во 5 век.",
+  "celebrationReason": "Овие отци беа убиени од Сарацените, едни во 4, а други во 5 век.",
+  "thumbnail": "./images/2026-01-27-thumb.jpg",
+  "image": "./images/2026-01-27-full.jpg",
+  "saints": [
+    {
+      "name": "Преподобни отци пострадани во Раифа Синајска: Исаија, Сава, Мојсеј и учениците негови Мојсеј, Јеремиј, Павел, Адам, Сергиј, Домн, Прокло, Ипатиј, Исаак, Макариј, Марко, Венијамин, Евсевиј, Илија и другите со нив (IV-V)",
+      "detailUrl": "https://denovi.mk/januari/27-011.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/27-011-tn.jpg"
+    },
+    {
+      "name": "Равноапостолна Нина, просветителка на Грузија (335)",
+      "detailUrl": "https://denovi.mk/januari/27-010.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/27-010-tn.jpg"
+    },
+    {
+      "name": "Свети Сава, архиепископ Српски (1237)",
+      "detailUrl": "https://denovi.mk/januari/27-012.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/27-012-tn.jpg"
+    },
+    {
+      "name": "Свети Илариј Пиктависки (368)",
+      "detailUrl": "https://denovi.mk/januari/27-014.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/27-014-tn.jpg"
+    },
+    {
+      "name": "Преподобна Варвара Скворчихинска (ХХ)",
+      "detailUrl": "https://denovi.mk/januari/27-013.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/januari/27-013-tn.jpg"
+    },
+    {
+      "name": "• Преподобен Јосиф Аналитин Раифски (IV)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Теодул, син на преподобниот Нил Синајски (V)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Стефан (VIII)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченица Агнија дева",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новосвештеномаченик епископ Амвросиј (Гудко) и новомачениците во Раифската пустина убиени близу Казан (1918)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

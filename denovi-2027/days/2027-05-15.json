@@ -1,0 +1,53 @@
+{
+  "id": "denovi-2027-05-15",
+  "date": "2027-05-15",
+  "sourceUrl": "https://denovi.mk/20270515.html",
+  "oldDate": {
+    "day": "2",
+    "month": "Мај",
+    "label": "2 мај (по стар стил)"
+  },
+  "newDate": {
+    "day": "15",
+    "month": "Мај"
+  },
+  "notice": "Сабота. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "Свети Атанасиј Велики, архиепископ Александриски",
+  "name": "Свети Атанасиј Велики, архиепископ Александриски (373)",
+  "description": "На денешен ден се празнува преносот на неговите мошти и чудата произлезени од нив. А животот и трудот на овој светител се опишани под 18 јануари.",
+  "celebrationReason": "На денешен ден се празнува преносот на неговите мошти и чудата произлезени од нив. А животот и трудот на овој светител се опишани под 18 јануари.",
+  "thumbnail": "./images/3bdb094b296b717c-full.jpg",
+  "image": "./images/3bdb094b296b717c-full.jpg",
+  "saints": [
+    {
+      "name": "Свети Атанасиј Велики, архиепископ Александриски (373)",
+      "detailUrl": "https://denovi.mk/maj/15-050.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/maj/15-050-tn.jpg"
+    },
+    {
+      "name": "Маченици Еспер и Зои и нивните деца Киријак и Теодул (II)",
+      "detailUrl": "https://denovi.mk/maj/15-053.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/maj/15-053-tn.jpg"
+    },
+    {
+      "name": "Благоверен и рамноапостолен цар Борис-Михаил (906-907)",
+      "detailUrl": "https://denovi.mk/maj/15-052.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/maj/15-052-tn.jpg"
+    },
+    {
+      "name": "• Свети Атанасиј, патријарх Константинополски (1654)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Пренос на моштите на благоверните кнезови страстотерпци Борис и Глеб, во светото крштение Роман и Давид (1072 и 1115) (Русија)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "denovi-2026-08-28",
+  "date": "2026-08-28",
+  "sourceUrl": "https://denovi.mk/20260828.html",
+  "oldDate": {
+    "day": "15",
+    "month": "Август",
+    "label": "15 Август"
+  },
+  "newDate": {
+    "day": "28",
+    "month": "Август"
+  },
+  "notice": "Петок. Риба.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "• Преподобен Макариј Римјанин, игумен, и преподобен Харитон",
+  "name": "• Преподобен Макариј Римјанин, игумен, и преподобен Харитон",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Преподобен Макариј Римјанин, игумен, и преподобен Харитон",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новосвештеномаченик презвитер Андреј (Вољански)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Христос од Јанина",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

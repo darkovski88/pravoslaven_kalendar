@@ -1,0 +1,78 @@
+{
+  "id": "denovi-2027-10-05",
+  "date": "2027-10-05",
+  "sourceUrl": "https://denovi.mk/20271005.html",
+  "oldDate": {
+    "day": "22",
+    "month": "Септември",
+    "label": "22 септември (по стар стил)"
+  },
+  "newDate": {
+    "day": "5",
+    "month": "Октомври"
+  },
+  "notice": "Вторник. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "Светиот пророк Јона",
+  "name": "Пророк Јона (VIII век пред Христа)",
+  "description": "Живееше повеќе од 800 години пред Христа. Во неговото житие се вели дека тој бил синот на онаа вдовица во Сарепта Сидонска на која пророкот Илија ѝ го воскресна синот од мртвите. Со своето тридневно пребивање во утробата на китот, свети Јона е предобраз на тридневното пребивање на Христос во гробот, а со неговото спасение - го изобрази Воскресението на Господа од мртвите. Другото запишано за овој прекрасен пророк треба да се прочита во Книгата на пророкот Јона, во Стариот Завет.",
+  "celebrationReason": "Живееше повеќе од 800 години пред Христа. Во неговото житие се вели дека тој бил синот на онаа вдовица во Сарепта Сидонска на која пророкот Илија ѝ го воскресна синот од мртвите. Со своето тридневно пребивање во утробата на китот, свети Јона е предобраз на тридневното пребивање на Христос во гробот, а со неговото спасение - го изобрази Воскресението на Господа од мртвите. Другото запишано за овој прекрасен пророк треба да се прочита во Книгата на пророкот Јона, во Стариот Завет.",
+  "thumbnail": "./images/737c990417829e0b-full.jpg",
+  "image": "./images/737c990417829e0b-full.jpg",
+  "saints": [
+    {
+      "name": "Пророк Јона (VIII век пред Христа)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-101.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/oktomvri/05-101-tn.jpg"
+    },
+    {
+      "name": "Свештеномаченик Фока, епископ Синопски (117)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-100.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/oktomvri/05-100-tn.jpg"
+    },
+    {
+      "name": "Преподобен Јона презвитер (IX), татко на светите Теофан, творецот на каноните и Теодор Начертан (IX)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-106.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/oktomvri/05-106-tn.jpg"
+    },
+    {
+      "name": "Маченик Фока градинар (320)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-103.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/oktomvri/05-103-tn.jpg"
+    },
+    {
+      "name": "Преподобен Козма Зографски (1323)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-104.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/oktomvri/05-104-tn.jpg"
+    },
+    {
+      "name": "• Праведен Петар, бивш митар (VI)",
+      "detailUrl": "https://denovi.mk/oktomvri/05-102.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Јона Јашезерски (1589-1592)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Макариј Жабински, Белевски чудотворец",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченици Исаак и Мартин",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Теофан Молчалник, затворник Киево-Печерски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

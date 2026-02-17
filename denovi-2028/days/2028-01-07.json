@@ -1,0 +1,43 @@
+{
+  "id": "denovi-2028-01-07",
+  "date": "2028-01-07",
+  "sourceUrl": "https://denovi.mk/20280107.html",
+  "oldDate": {
+    "day": "25",
+    "month": "Декември",
+    "label": "25 Декември"
+  },
+  "newDate": {
+    "day": "7",
+    "month": "Јануари"
+  },
+  "notice": "Петок. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "• Поклонение на светите маги: Мелхиор, Гаспар и Балтасар",
+  "name": "• Поклонение на светите маги: Мелхиор, Гаспар и Балтасар",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Поклонение на светите маги: Мелхиор, Гаспар и Балтасар",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобномаченик Јона и со него 50 монаси во Трифоно-Печенскиот манастир убиени од Швеѓаните (1590)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новосвештеномаченик презвитер Леонид Серебреников и Марија Кијановска",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "denovi-2026-07-17",
+  "date": "2026-07-17",
+  "sourceUrl": "https://denovi.mk/20260717.html",
+  "oldDate": {
+    "day": "4",
+    "month": "Јули",
+    "label": "4 јули (по стар стил)"
+  },
+  "newDate": {
+    "day": "17",
+    "month": "Јули"
+  },
+  "notice": "Петок. Пост.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "Свети Царски Страстотерпци: Цар - Маченик Николај II Романов и со него убиените: царица Александра, принцези: Огла, Татјана, Анастасија и Марија и принцот Алексеј (1918)",
+  "name": "Свети Царски Страстотерпци: Цар - Маченик Николај II Романов и со него убиените: царица Александра, принцези: Огла, Татјана, Анастасија и Марија и принцот Алексеј (1918)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "./images/2026-07-17-thumb.jpg",
+  "image": "./images/2026-07-17-full.jpg",
+  "saints": [
+    {
+      "name": "Свети Царски Страстотерпци: Цар - Маченик Николај II Романов и со него убиените: царица Александра, принцези: Огла, Татјана, Анастасија и Марија и принцот Алексеј (1918)",
+      "detailUrl": "https://denovi.mk/juli/17-072.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/juli/17-072-tn.jpg"
+    },
+    {
+      "name": "Свети Андреј, архиепископ Критски (712-726)",
+      "detailUrl": "https://denovi.mk/juli/17-070.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/juli/17-070-tn.jpg"
+    },
+    {
+      "name": "Преподобен Андреј Рубљов, иконописец (XV)",
+      "detailUrl": "https://denovi.mk/juli/17-073.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/juli/17-073-tn.jpg"
+    },
+    {
+      "name": "Благоверен велик кнез Андреј Богољубски (1174)",
+      "detailUrl": "https://denovi.mk/juli/17-074.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/juli/17-074-tn.jpg"
+    },
+    {
+      "name": "Преподобна Марта, мајка на свети Симеон Дивногорец (551)",
+      "detailUrl": "https://denovi.mk/juli/17-071.html",
+      "thumbnailUrl": "https://denovi.mk/synaxarion/juli/17-071-tn.jpg"
+    },
+    {
+      "name": "• Наоѓање на моштите на преподобен Ефтимиј, Суздалски чудотворец (1507)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченици Теодот и Теодотија (108)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свештеномаченик Теодор, епископ Киринејски (310)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобни Тихон, Василиј и Никон, Соловецки",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новомаченик јеромонах Нил (Полтавски) (1918)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Галатска икона на Божјата Мајка",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свештеномаченик Теодор, епископ Киринејски во Либија и со него маченичките Киприла, Ароја и Лукија",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Андреј Руски, Каирски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Свети Донат, епископ Либиски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

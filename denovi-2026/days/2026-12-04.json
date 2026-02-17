@@ -1,0 +1,38 @@
+{
+  "id": "denovi-2026-12-04",
+  "date": "2026-12-04",
+  "sourceUrl": "https://denovi.mk/20261204.html",
+  "oldDate": {
+    "day": "21",
+    "month": "Ноември",
+    "label": "21 Ноември"
+  },
+  "newDate": {
+    "day": "4",
+    "month": "Декември"
+  },
+  "notice": "Петок, Божикен пост. Риба.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "• Благоверен Јарополк, во светото Крштение Петар, кнез Владимиро-Волински (1086)",
+  "name": "• Благоверен Јарополк, во светото Крштение Петар, кнез Владимиро-Волински (1086)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Благоверен Јарополк, во светото Крштение Петар, кнез Владимиро-Волински (1086)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Коломбан, игумен на Лукијулското братство во Франција (615)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

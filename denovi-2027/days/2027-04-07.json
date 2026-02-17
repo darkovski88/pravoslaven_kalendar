@@ -1,0 +1,43 @@
+{
+  "id": "denovi-2027-04-07",
+  "date": "2027-04-07",
+  "sourceUrl": "https://denovi.mk/20270407.html",
+  "oldDate": {
+    "day": "25",
+    "month": "Март",
+    "label": "25 Март"
+  },
+  "newDate": {
+    "day": "7",
+    "month": "Април"
+  },
+  "notice": "Среда, Велик Пост. Риба.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "• Свети Тихон, патријарх Московски и на цела Русија (1925)",
+  "name": "• Свети Тихон, патријарх Московски и на цела Русија (1925)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Свети Тихон, патријарх Московски и на цела Русија (1925)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченички Пелагија, Теодосија и Дула, Никомидиски",
+      "detailUrl": "https://denovi.mk/april/07-041.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобен Партениј Киевски (1855)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

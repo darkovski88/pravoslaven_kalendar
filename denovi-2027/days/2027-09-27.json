@@ -1,0 +1,63 @@
+{
+  "id": "denovi-2027-09-27",
+  "date": "2027-09-27",
+  "sourceUrl": "https://denovi.mk/20270927.html",
+  "oldDate": {
+    "day": "14",
+    "month": "Септември",
+    "label": "14 Септември"
+  },
+  "newDate": {
+    "day": "27",
+    "month": "Септември"
+  },
+  "notice": "Понеделник. Масло.",
+  "fasting": {
+    "isFastDay": true,
+    "label": "Без месо"
+  },
+  "title": "• Претставување на свети Јован Златоуст (407)",
+  "name": "• Претставување на свети Јован Златоуст (407)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "",
+  "saints": [
+    {
+      "name": "• Претставување на свети Јован Златоуст (407)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Маченик Папа, Ликаонски",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новомаченик Макариј Солунски (1522)",
+      "detailUrl": "https://denovi.mk/septemvri/27-093.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Леснинска икона на Божјата Мајка (1683)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Света Плацила, царица, жена на императорот Теодосиј Велики (400)",
+      "detailUrl": "https://denovi.mk/septemvri/27-092.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Преподобна Марија Тарсиска",
+      "detailUrl": "https://denovi.mk/septemvri/27-094.html",
+      "thumbnailUrl": ""
+    },
+    {
+      "name": "• Новопреподобномаченик архим. Игнатиј (Бирјукова)",
+      "detailUrl": "",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "denovi-2026-07-12",
+  "date": "2026-07-12",
+  "sourceUrl": "https://denovi.mk/20260712.html",
+  "oldDate": {
+    "day": "29",
+    "month": "Јуни",
+    "label": "29 јуни (по стар стил)"
+  },
+  "newDate": {
+    "day": "12",
+    "month": "Јули"
+  },
+  "notice": "Недела. Не се пости.",
+  "fasting": {
+    "isFastDay": false,
+    "label": "Без месо"
+  },
+  "title": "Преподобен Паисиј Светогорец (1994)",
+  "name": "• Преподобен Паисиј Светогорец (1994)",
+  "description": "",
+  "celebrationReason": "",
+  "thumbnail": "",
+  "image": "./images/2026-07-12-full.jpg",
+  "saints": [
+    {
+      "name": "• Преподобен Паисиј Светогорец (1994)",
+      "detailUrl": "https://denovi.mk/juli/12-071.html",
+      "thumbnailUrl": ""
+    }
+  ],
+  "attribution": "Content and images sourced from denovi.mk"
+}
