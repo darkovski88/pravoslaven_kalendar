@@ -1,0 +1,3 @@
+# Only the encrypted feed is published; the readable copies stay local.
+index.json
+_former_index.json

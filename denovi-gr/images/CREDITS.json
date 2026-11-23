@@ -1,0 +1,134 @@
+{
+  "_comment": "Public-domain icons from Wikimedia Commons for Greek feed days without a matching Macedonian icon. Files live in denovi_pravoslaven_kalendar/denovi-gr/images/feast-<key>-full.jpg and -thumb.jpg.",
+  "icons": [
+    {
+      "key": "theophany",
+      "titleContains": [
+        "Θεοφάνεια"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Baptism_of_Christ,_Early_XIV_Century,_St_Mary_Perivleptos_Church,_Ohrid_Icon_Gallery.jpg",
+      "file": "File:Baptism of Christ, Early XIV Century, St Mary Perivleptos Church, Ohrid Icon Gallery.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "baptist-synaxis",
+      "titleContains": [
+        "Σύναξη του Αγίου Ιωάννη Προδρόμου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:St._John_the_Baptist_Angel_of_Desert_(Greece,_1750).jpg",
+      "file": "File:St. John the Baptist Angel of Desert (Greece, 1750).jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "hypapante",
+      "titleContains": [
+        "Υπαπαντή"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:The_Presentation_in_the_Temple_MET_DT242201.jpg",
+      "file": "File:The Presentation in the Temple MET DT242201.jpg",
+      "license": "CC0"
+    },
+    {
+      "key": "transfiguration",
+      "titleContains": [
+        "Μεταμόρφωση του Σωτήρος"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Icon_of_the_Transfiguration_by_Theophanes_the_Cretan.jpg",
+      "file": "File:Icon of the Transfiguration by Theophanes the Cretan.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "dormition",
+      "titleContains": [
+        "Κοίμησις της Θεοτόκου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Dormition_of_the_Virgin_Mary_Sinai.jpg",
+      "file": "File:Dormition of the Virgin Mary Sinai.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "nativity-theotokos",
+      "titleContains": [
+        "Γέννηση της Υπεραγίας Θεοτόκου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Nikola-Obrazopisov-Belyova-church-Nativity-of-the-Theotokos-icon-1863.jpg",
+      "file": "File:Nikola-Obrazopisov-Belyova-church-Nativity-of-the-Theotokos-icon-1863.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "exaltation",
+      "titleContains": [
+        "Ύψωση του Τιμίου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Unknown_painter_-_Exaltation_of_the_Cross_-_WGA23497.jpg",
+      "file": "File:Unknown painter - Exaltation of the Cross - WGA23497.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "entry-theotokos",
+      "titleContains": [
+        "Εισόδια της Θεοτόκου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Presentation_of_Mary,_II_Half_of_XIV_Century,_St_Mary_Perivleptos_Church,_Ohrid_Icon_Gallery.jpg",
+      "file": "File:Presentation of Mary, II Half of XIV Century, St Mary Perivleptos Church, Ohrid Icon Gallery.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "nativity",
+      "titleContains": [
+        "κατά σάρκα γέννησις"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Nativity_of_Christ,_Cretan,_16th_century.tif",
+      "file": "File:Nativity of Christ, Cretan, 16th century.tif",
+      "license": "CC0"
+    },
+    {
+      "key": "council-7",
+      "titleContains": [
+        "Ζ' Οικουμενικής Συνόδου"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Seventh_ecumenical_council_(Icon).jpg",
+      "file": "File:Seventh ecumenical council (Icon).jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "councils",
+      "titleContains": [
+        "Δ' Οικουμενικής Συνόδου",
+        "Κρητών Πατέρων",
+        "Α' Οικουμενικής"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Ecumenical_Councils.jpg",
+      "file": "File:Ecumenical Councils.jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "last-judgment",
+      "titleContains": [
+        "Κυριακή των Απόκρεω"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Second_Coming_by_G.Klontzas_(16th_c.).jpg",
+      "file": "File:Second Coming by G.Klontzas (16th c.).jpg",
+      "license": "Public domain"
+    },
+    {
+      "key": "flight-egypt",
+      "titleContains": [
+        "Μετά την Χριστού Γέννησιν"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flight_to_Egypt_Emmanuel_Tzanes.png",
+      "file": "File:Flight to Egypt Emmanuel Tzanes.png",
+      "license": "Public domain"
+    },
+    {
+      "key": "tree-jesse",
+      "titleContains": [
+        "Προπατόρων",
+        "Κυριακή προ της Χριστού"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Tree_of_Jesse_icon_(17_c.).jpg",
+      "file": "File:Tree of Jesse icon (17 c.).jpg",
+      "license": "Public domain"
+    }
+  ]
+}
