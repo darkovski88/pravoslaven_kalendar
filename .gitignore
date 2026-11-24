@@ -1,0 +1,7 @@
+# Plain feed content stays local (used by the build scripts); only encrypted feeds are published.
+index.json
+_former_index.json
+image-index.json
+_former_image-index.json
+days/
+.DS_Store
